@@ -1,0 +1,16 @@
+{
+    "mcpServers": {
+       "weather": {
+         "command": "uv",
+         "args": [
+           "run",
+           "--frozen",
+           "--with",
+           "mcp[cli]",
+           "mcp",
+           "run",
+           "C:\\Users\\potua\\mcp_server\\server\\weather.py"
+         ]
+       }
+     }
+   }
